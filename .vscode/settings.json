@@ -1,0 +1,5 @@
+{
+  "terminal.integrated.commandsToSkipShell": [
+    "\"liveServe .setting,wait\": 500"
+  ]
+}
